@@ -4,6 +4,8 @@
 #
 # @example
 #   include screen
+# screen module to install on a system.
+
 class screen {
   notify { 'Installing screen package': }
   package { 'screen':
