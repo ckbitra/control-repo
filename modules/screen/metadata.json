@@ -1,0 +1,9 @@
+{
+  "name": "chandra-screen",
+  "version": "0.1.0",
+  "author": "chandra",
+  "summary": "Installs the screen package",
+  "license": "Apache-2.0",
+  "source": "https://github.com/your-org/control-repo",
+  "dependencies": []
+}
