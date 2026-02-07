@@ -1,0 +1,1 @@
+# This is the Puppetfile for managing Puppet modules with r10k or librarian
